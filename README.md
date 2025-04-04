@@ -11,9 +11,9 @@ I believe in the power of technology to solve real-world problems and am constan
 ## 🔥 About Me  
 
 - 🎓 **B.Tech in Computer Science & Engineering** (UEM Jaipur, Class of 2026)  
-- 💻 **MERN Stack Developer** | Proficient in **Java, C, Python, PHP, SQL**  
+- 💻 **MERN Stack Developer** | Proficient in **Java, C, Python, SQL**  
 - ⚡ **Web Dev Enthusiast** | Skilled in **React, Node.js, Express.js, MongoDB**  
-- 🌱 **Currently Learning:** Advanced System Design & Cloud Technologies  
+- 🌱 **Currently Learning:** DSA and Core Computer Science (OS , CN)
 - 🏆 **Hackathon Enthusiast** | Organizer at **AceHack 4.0**  
 
 ---
