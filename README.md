@@ -16,7 +16,7 @@ I believe in the power of technology to solve real-world problems and am constan
 - 🌱 **Currently Learning:** DSA and Core Computer Science (OS, CN)  
 - 🏆 **Hackathon Enthusiast** | Organizer at **AceHack 4.0**  
 
-🔗 **Check Out My Portfolio:** [Subhayan Kapas Portfolio](https://vercel.com/subhayan-kapas-s-projects/new-subhayan-portfolio)  
+🔗 **Check Out My Portfolio:** [Subhayan Kapas Portfolio](https://new-subhayan-portfolio.vercel.app/)   
 
 ---
 
