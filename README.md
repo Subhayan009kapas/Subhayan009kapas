@@ -13,8 +13,10 @@ I believe in the power of technology to solve real-world problems and am constan
 - 🎓 **B.Tech in Computer Science & Engineering** (UEM Jaipur, Class of 2026)  
 - 💻 **MERN Stack Developer** | Proficient in **Java, C, Python, SQL**  
 - ⚡ **Web Dev Enthusiast** | Skilled in **React, Node.js, Express.js, MongoDB**  
-- 🌱 **Currently Learning:** DSA and Core Computer Science (OS , CN)  
+- 🌱 **Currently Learning:** DSA and Core Computer Science (OS, CN)  
 - 🏆 **Hackathon Enthusiast** | Organizer at **AceHack 4.0**  
+
+🔗 **Check Out My Portfolio:** [Subhayan Kapas Portfolio](https://github.com/Subhayan009kapas/New--Subhayan-Portfolio)  
 
 ---
 
@@ -54,17 +56,7 @@ An innovative solution addressing **[specific problem statement]**, developed du
 
 ---
 
-### **5. [New Portfolio](https://github.com/Subhayan009kapas/New--Subhayan-Portfolio)**  
-**💡 My personal portfolio showcasing skills, projects & achievements.**  
-
-- 🔹 **Tech:** React.js, CSS, Framer Motion  
-- 🔹 **Features:** Fully responsive, interactive UI  
-
-🔗 **View Portfolio:** [Click Here](https://your-portfolio-link.com)  
-
----
-
-### **6. [Educare](https://github.com/Subhayan009kapas/Educare)**  
+### **5. [Educare](https://github.com/Subhayan009kapas/Educare)**  
 **💡 An online education platform for student-teacher interactions.**  
 
 - 🔹 **Tech:** HTML, CSS, JavaScript, PHP  
@@ -72,7 +64,7 @@ An innovative solution addressing **[specific problem statement]**, developed du
 
 ---
 
-### **7. [BoAt Clone 2024](https://github.com/Subhayan009kapas/BoAt-Clone-2024)**  
+### **6. [BoAt Clone 2024](https://github.com/Subhayan009kapas/BoAt-Clone-2024)**  
 **💡 A front-end replica of the BoAt website.**  
 
 - 🔹 **Tech:** HTML, CSS, JavaScript  
