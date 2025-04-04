@@ -13,7 +13,7 @@ I believe in the power of technology to solve real-world problems and am constan
 - 🎓 **B.Tech in Computer Science & Engineering** (UEM Jaipur, Class of 2026)  
 - 💻 **MERN Stack Developer** | Proficient in **Java, C, Python, SQL**  
 - ⚡ **Web Dev Enthusiast** | Skilled in **React, Node.js, Express.js, MongoDB**  
-- 🌱 **Currently Learning:** DSA and Core Computer Science (OS , CN)
+- 🌱 **Currently Learning:** DSA and Core Computer Science (OS , CN)  
 - 🏆 **Hackathon Enthusiast** | Organizer at **AceHack 4.0**  
 
 ---
@@ -60,6 +60,8 @@ An innovative solution addressing **[specific problem statement]**, developed du
 - 🔹 **Tech:** React.js, CSS, Framer Motion  
 - 🔹 **Features:** Fully responsive, interactive UI  
 
+🔗 **View Portfolio:** [Click Here](https://your-portfolio-link.com)  
+
 ---
 
 ### **6. [Educare](https://github.com/Subhayan009kapas/Educare)**  
@@ -78,7 +80,10 @@ An innovative solution addressing **[specific problem statement]**, developed du
 
 ---
 
+## 🎤 GitHub Stats  
 
+![Subhayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subhayan009kapas&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhayan009kapas&layout=compact&theme=radical)  
 
 ---
 
@@ -91,4 +96,3 @@ An innovative solution addressing **[specific problem statement]**, developed du
 ---
 
 ### 🚀 *"Code, Learn, Innovate, Repeat!"*  
-
