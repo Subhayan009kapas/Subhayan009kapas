@@ -1,16 +1,99 @@
-## Hi there 👋
+# 👋 Hi there, I'm Subhayan Kapas!  
 
-<!--
-**Subhayan009kapas/Subhayan009kapas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Passionate Full-Stack Developer | MERN Enthusiast | Open Source Contributor**  
 
-Here are some ideas to get you started:
+I believe in the power of technology to solve real-world problems and am constantly exploring new ways to innovate. From developing web applications to working on IoT projects, I love creating impactful solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **"Life = Maa + Code"** – My simple philosophy.  
+
+---
+
+## 🔥 About Me  
+
+- 🎓 **B.Tech in Computer Science & Engineering** (UEM Jaipur, Class of 2026)  
+- 💻 **MERN Stack Developer** | Proficient in **Java, C, Python, PHP, SQL**  
+- ⚡ **Web Dev Enthusiast** | Skilled in **React, Node.js, Express.js, MongoDB**  
+- 🌱 **Currently Learning:** Advanced System Design & Cloud Technologies  
+- 🏆 **Hackathon Enthusiast** | Organizer at **AceHack 4.0**  
+
+---
+
+## 🚀 Notable Projects  
+
+### **1. [DWWP 2.0](https://github.com/Subhayan009kapas/DWWP-2.0)**  
+**💡 Domestic Water Wastage Prevention System**  
+A smart IoT-based water management solution that tracks real-time usage, sets limits, and enables digital payments.  
+
+- 🔹 **Tech:** ESP-32, Firebase, React, Razorpay  
+- 🔹 **Features:** Smart monitoring, auto shut-off, user billing  
+
+---
+
+### **2. [Smart India Hackathon 2024](https://github.com/Subhayan009kapas/Smart_india_Hackathon_2024)**  
+**💡 Problem-Solving Hackathon Project**  
+An innovative solution addressing **[specific problem statement]**, developed during SIH 2024.  
+
+- 🔹 **Tech:** [Mention Tech Stack]  
+- 🔹 **Features:** [Highlight Key Features]  
+
+---
+
+### **3. [CloudGallery (MERN Stack)](https://github.com/Subhayan009kapas/MERN_STACK_PROJECT_CloudGallery)**  
+**💡 A cloud-based image & video gallery with CRUD functionality.**  
+
+- 🔹 **Tech:** React, Node.js, Express.js, MongoDB  
+- 🔹 **Features:** Image uploads, deletions, authentication, optimized UI  
+
+---
+
+### **4. [Score Vault](https://github.com/Subhayan009kapas/Score_Vault)**  
+**💡 A certificate & marksheet storage & verification system.**  
+
+- 🔹 **Tech:** PHP, MySQL, HTML, CSS, JavaScript  
+- 🔹 **Features:** Secure uploads, verification system  
+
+---
+
+### **5. [New Portfolio](https://github.com/Subhayan009kapas/New--Subhayan-Portfolio)**  
+**💡 My personal portfolio showcasing skills, projects & achievements.**  
+
+- 🔹 **Tech:** React.js, CSS, Framer Motion  
+- 🔹 **Features:** Fully responsive, interactive UI  
+
+---
+
+### **6. [Educare](https://github.com/Subhayan009kapas/Educare)**  
+**💡 An online education platform for student-teacher interactions.**  
+
+- 🔹 **Tech:** HTML, CSS, JavaScript, PHP  
+- 🔹 **Features:** Course management, quizzes, authentication  
+
+---
+
+### **7. [BoAt Clone 2024](https://github.com/Subhayan009kapas/BoAt-Clone-2024)**  
+**💡 A front-end replica of the BoAt website.**  
+
+- 🔹 **Tech:** HTML, CSS, JavaScript  
+- 🔹 **Features:** Fully responsive, pixel-perfect UI  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhayan009kapas&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhayan009kapas&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect With Me  
+
+🔗 **GitHub:** [github.com/Subhayan009kapas](https://github.com/Subhayan009kapas)  
+🔗 **LinkedIn:** [linkedin.com/in/SubhayanKapas](https://www.linkedin.com/in/SubhayanKapas)  
+📧 **Email:** subhayankapas172004@gmail.com  
+
+---
+
+### 🚀 *"Code, Learn, Innovate, Repeat!"*  
+
