@@ -1,90 +1,21 @@
-# 👋 Hi there, I'm Subhayan Kapas!  
+# 💫 About Me:
+- 🎓 **B.Tech in Computer Science & Engineering** (UEM Jaipur, Class of 2026)  <br>- 💻 **MERN Stack Developer** | Proficient in **Java, C, Python, SQL**  <br>- ⚡ **Web Dev Enthusiast** | Skilled in **React, Node.js, Express.js, MongoDB**  <br>- 🌱 **Currently Learning:** DSA and Core Computer Science (OS, CN)  <br>- 🏆 **Hackathon Enthusiast** | Organizer at **AceHack 4.0**  <br>
 
-🚀 **Passionate Full-Stack Developer | MERN Enthusiast | Open Source Contributor**  
 
-I believe in the power of technology to solve real-world problems and am constantly exploring new ways to innovate. From developing web applications to working on IoT projects, I love creating impactful solutions.  
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhayankapas17@gmail.com) 
 
-📌 **"Life = Maa + Code"** – My simple philosophy.  
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Subhayan009kapas&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Subhayan009kapas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhayan009kapas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-
-## 🔥 About Me  
-
-- 🎓 **B.Tech in Computer Science & Engineering** (UEM Jaipur, Class of 2026)  
-- 💻 **MERN Stack Developer** | Proficient in **Java, C, Python, SQL**  
-- ⚡ **Web Dev Enthusiast** | Skilled in **React, Node.js, Express.js, MongoDB**  
-- 🌱 **Currently Learning:** DSA and Core Computer Science (OS, CN)  
-- 🏆 **Hackathon Enthusiast** | Organizer at **AceHack 4.0**  
-
-🔗 **Check Out My Portfolio:** [Subhayan Kapas Portfolio](https://new-subhayan-portfolio.vercel.app/)   
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Subhayan009kapas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Subhayan009kapas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Notable Projects  
-
-### **1. [DWWP 2.0](https://github.com/Subhayan009kapas/DWWP-2.0)**  
-**💡 Domestic Water Wastage Prevention System**  
-A smart IoT-based water management solution that tracks real-time usage, sets limits, and enables digital payments.  
-
-- 🔹 **Tech:** ESP-32, Firebase, React, Razorpay  
-- 🔹 **Features:** Smart monitoring, auto shut-off, user billing  
-
----
-
-### **2. [Smart India Hackathon 2024](https://github.com/Subhayan009kapas/Smart_india_Hackathon_2024)**  
-**💡 Problem-Solving Hackathon Project**  
-An innovative solution addressing **[specific problem statement]**, developed during SIH 2024.  
-
-- 🔹 **Tech:** [Mention Tech Stack]  
-- 🔹 **Features:** [Highlight Key Features]  
-
----
-
-### **3. [CloudGallery (MERN Stack)](https://github.com/Subhayan009kapas/MERN_STACK_PROJECT_CloudGallery)**  
-**💡 A cloud-based image & video gallery with CRUD functionality.**  
-
-- 🔹 **Tech:** React, Node.js, Express.js, MongoDB  
-- 🔹 **Features:** Image uploads, deletions, authentication, optimized UI  
-
----
-
-### **4. [Score Vault](https://github.com/Subhayan009kapas/Score_Vault)**  
-**💡 A certificate & marksheet storage & verification system.**  
-
-- 🔹 **Tech:** PHP, MySQL, HTML, CSS, JavaScript  
-- 🔹 **Features:** Secure uploads, verification system  
-
----
-
-### **5. [Educare](https://github.com/Subhayan009kapas/Educare)**  
-**💡 An online education platform for student-teacher interactions.**  
-
-- 🔹 **Tech:** HTML, CSS, JavaScript, PHP  
-- 🔹 **Features:** Course management, quizzes, authentication  
-
----
-
-### **6. [BoAt Clone 2024](https://github.com/Subhayan009kapas/BoAt-Clone-2024)**  
-**💡 A front-end replica of the BoAt website.**  
-
-- 🔹 **Tech:** HTML, CSS, JavaScript  
-- 🔹 **Features:** Fully responsive, pixel-perfect UI  
-
----
-
-## 🎤 GitHub Stats  
-
-![Subhayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subhayan009kapas&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhayan009kapas&layout=compact&theme=radical)  
-
----
-
-## 📫 Connect With Me  
-
-🔗 **GitHub:** [github.com/Subhayan009kapas](https://github.com/Subhayan009kapas)  
-🔗 **LinkedIn:** [linkedin.com/in/SubhayanKapas](https://www.linkedin.com/in/SubhayanKapas)  
-📧 **Email:** subhayankapas172004@gmail.com  
-
----
-
-### 🚀 *"Code, Learn, Innovate, Repeat!"*  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
